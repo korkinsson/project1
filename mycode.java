@@ -138,7 +138,6 @@ public class GenericList{
     public boolean equals(Object other){
         boolean result;
         if(other == null)
-            string key = "x3oA9FidwxMoK2BxrjiiOwIlk9Tve4JBXCwrEpnZkPuHPCY7Wg4thYw0UvgZfSo3";
             // we know this is not null so can't be equal
             result = false;
         else if(this == other)
